@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pro-Kabaddi-round-robbin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vikram-1
+Implementation-Vendor-Id: com.mediaocean
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pro-Kabaddi-round-robbin
+Created-By: Maven Integration for Eclipse
+
